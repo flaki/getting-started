@@ -5,6 +5,7 @@
 | David G. Simmons (`davidgs`) | [InfluxData](https://influxdata.com) | IoT Evangelist | [Blog](https://davidgs/com) | [@davidgsIot](https://twitter.com/davidgsIoT) | [davidgs](https://github/com/davidgs) |
 | Don Goodman-Wilson (`don`) | Looking! | Developer Relations | [Blog](https://medium.com/DEGoodmanWilson) | [@DEGoodmanWilson](https://twitter.com/DEGoodmanWilson) | [DEGoodmanWilson](https://github.com/DEGoodmanWilson) |
 | H. "Waldo" Grunenwald (`waldo`) | [Datadog](https://datadoghq.com) | Tech Evangelist / Advocate | [Neglected Blog](https://gwaldo.blogspot.com) | [@gwaldo](https://twitter.com/gwaldo) | [gwaldo](https://github.com/gwaldo) |
+| Istvan Szmozsanszky (`flaki`) | [Skylark](https://skylark.ee) | Freelance Community Engineer / DevRel | [Web](https://flak.is) | [@slsoftworks](https://twitter.com/slsoftworks) | [flaki](https://github.com/flaki) |
 | Jason Harris (`jasonharris`) | [Panoply](https://panoply.io) | Evangelist | [Blog](https://techcraver.com) | [@harrisja](https://twitter.com/harrisja) | [techcraver](https://www.github.com/techcraver) |
 | Jeremy Meiss (`jeremymeiss`) | [Auth0](https://Auth0.com) | Developer Community Lead | [Web](https://jmeiss.me), [Blog](https://medium.com/@jeremymeiss) | [@IAmJerdog](https://twitter.com/IAmJerdog) | [jerdog](https://github.com/jerdog) |
 | Jessica West (`jessica`) | [MongoDB](https://mongodb.com) | Director of Global Advocacy, Developer Relations | [Blog](https://jessica.dev) | [@jessicaewest](https://twitter.com/jessicaewest) | [jessicag](https://github.com/jessicag) |
